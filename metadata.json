@@ -1,0 +1,6 @@
+{
+  "name": "Trạm Kết Nối Số: Tri Ân Người Dẫn Lối - THPT Chuyên Sơn La",
+  "description": "Sản phẩm số tương tác tri ân thầy cô giáo 20/11: Landing Page đa phương tiện & Bản tin số/Tạp chí điện tử lật trang, hòm thư số kết nối cựu học sinh, góc mã QR đóng khung lớp học, podcast radio và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
